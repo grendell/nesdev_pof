@@ -8,7 +8,7 @@
 ## Controls
 * Press A to start a new line of code.
     * Press up/down to scroll through the available instructions.
-    * Press A to select an instruction
+    * Press A to select an instruction.
     * If that instruction accepts an immediate:
         * Press up/down to scroll through the hexadecimal values.
         * Press A to select a value.
@@ -25,8 +25,8 @@
 * `chars.inc`
     * Tile data in text format.
 * `system.inc`
-    Canonical names for NES registers.
+    * Canonical names for NES registers.
 * `nrom.cfg`
-    * Linker configuration for basic an [NES NROM](https://www.nesdev.org/wiki/NROM) rom file.
+    * Linker configuration for an [NES NROM](https://www.nesdev.org/wiki/NROM) rom file.
 * `nesdev.nes`
     * Prebuilt rom file.
